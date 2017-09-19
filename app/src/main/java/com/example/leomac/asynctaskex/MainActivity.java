@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
             // show dialog
             asyncDialog.show();
             super.onPreExecute();
+
+            // and this is just test comment for git status
         }
 
         @Override
